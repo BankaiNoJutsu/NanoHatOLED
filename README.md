@@ -25,6 +25,11 @@ Execute the following command in the Ubuntu core system:
 ```
 The demo will automatically start at the next reboot.  
 
+Troubleshoot
+------------
+Check that the path in /usr/local/bin/oled-start is correct. You can just run it, you would get an error if it's wrong.
+Reboot once corrected, boom!
+
 ## License
 
 The MIT License (MIT)
